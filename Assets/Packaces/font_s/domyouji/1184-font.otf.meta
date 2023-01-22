@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1d39e627da773e248b88fb63e9c65d9d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Domyouji
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 390354c24c543ca4a91b9f7a219352e5, type: 3}
+  - {fileID: 12800000, guid: 379078d90e1ef724b806af067719520b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

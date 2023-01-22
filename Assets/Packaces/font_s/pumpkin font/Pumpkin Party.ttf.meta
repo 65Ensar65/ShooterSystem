@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 05183a34137c8844889535f5fa6157d2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pumpkin Party
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c1293c9eb9f091a49ac80b7d3aac2fb0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

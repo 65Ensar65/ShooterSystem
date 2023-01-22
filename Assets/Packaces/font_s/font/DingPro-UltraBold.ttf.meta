@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 2ecfc3951dcc36f4288b6ef1ffd18961
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ding Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 07b82c7d78422024680ad5ac1facd92e, type: 3}
+  - {fileID: 12800000, guid: 0421053c3018328479bf5f032720917e, type: 3}
+  - {fileID: 12800000, guid: 8103a5b8378b24f4f94f001ff2f97c63, type: 3}
+  - {fileID: 12800000, guid: bb0b3d54bdc6f64419a440abb9aaca8c, type: 3}
+  - {fileID: 12800000, guid: 235f2bc82e4f9b04883d77a1e42b6ae3, type: 3}
+  - {fileID: 12800000, guid: aa57eed8aedc4f549813a33c27e1cbe9, type: 3}
+  - {fileID: 12800000, guid: 247729542ca0f4a4aa0a86296c6069c7, type: 3}
+  - {fileID: 12800000, guid: fc0fffe4c66523d4d85fab8bb66d6c28, type: 3}
+  - {fileID: 12800000, guid: bdfca5fc54bf2f64c8d3e6de5f17565f, type: 3}
+  - {fileID: 12800000, guid: 6345c9b7e6bebf641bc8b76cb3178d96, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
